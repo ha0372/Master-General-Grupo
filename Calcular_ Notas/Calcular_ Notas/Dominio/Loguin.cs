@@ -24,6 +24,6 @@ namespace Calcular__Notas.Dominio
         public double Par3 { get => par3; set => par3 = value; }
         public double Nota1 { get => nota1; set => nota1 = value; }
         public double Nota2 { get => nota2; set => nota2 = value; }
-        //public double Nota3 { get => nota3; set => nota3 = value; }
+        public double Nota3 { get => nota3; set => nota3 = value; }
     }
 }
