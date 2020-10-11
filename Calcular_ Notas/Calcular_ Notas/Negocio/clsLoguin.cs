@@ -6,5 +6,7 @@ namespace Calcular__Notas.Negocio
 {
     class clsLoguin
     {
+
+
     }
 }
