@@ -33,7 +33,7 @@ namespace Calcular__Notas.Negocio
 
             return totalF;
         }
-        
+
         public Boolean apro(Loguin logA)
         {
             Double result = (logA.Nota1 + logA.Nota2 + logA.Nota3) / 3;
