@@ -29,3 +29,4 @@ C:\Users\rober\Documents\GitHub\Master-General-Grupo\Calcular_ Notas\Calcular_ N
 C:\Users\rober\Documents\GitHub\Master-General-Grupo\Calcular_ Notas\Calcular_ Notas\obj\Debug\netcoreapp3.1\Calcular_ Notas.pdb
 C:\Users\rober\Documents\GitHub\Master-General-Grupo\Calcular_ Notas\Calcular_ Notas\obj\Debug\netcoreapp3.1\Calcular_ Notas.genruntimeconfig.cache
 C:\Users\rober\Documents\GitHub\Master-General-Grupo\Calcular_ Notas\Calcular_ Notas\obj\Debug\netcoreapp3.1\Calcular__Notas.frmSuma.resources
+C:\Users\rober\Documents\GitHub\Master-General-Grupo\Calcular_ Notas\Calcular_ Notas\obj\Debug\netcoreapp3.1\Calcular__Notas.frmUsuario.resources

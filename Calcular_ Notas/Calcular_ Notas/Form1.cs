@@ -36,6 +36,7 @@ namespace Calcular__Notas
 
         private void button4_Click(object sender, EventArgs e)
         {
+            frmUsuario frm = new frmUsuario();
             Loguin loguiF = new Loguin();
             clsLoguin clsF = new clsLoguin();
             loguiF.Nota1 = Convert.ToDouble(value: txtR.Text);
@@ -47,6 +48,7 @@ namespace Calcular__Notas
             if (D == true)
             {
                 MessageBox.Show("FELICIDADES USTED APROBO");
+                frm.Show();
             }else
             {
                 MessageBox.Show("LO SIENTO USTED REPROBO");

@@ -8,5 +8,8 @@
     <Compile Update="frmSuma.cs">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Update="frmUsuario.cs">
+      <SubType>Form</SubType>
+    </Compile>
   </ItemGroup>
 </Project>
