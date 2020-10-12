@@ -16,20 +16,20 @@ namespace Calcular__Notas.Negocio
 
         public Double cal2(Loguin log2)
         {
-            Double total2 = (log2.Lab1 * 0.4) + (log2.Par1 * 0.6);
+            Double total2 = (log2.Lab2 * 0.4) + (log2.Par2 * 0.6);
 
             return total2;
 
         }
         public Double cal3(Loguin log3)
         {
-            Double total3 = (log3.Lab1 * 0.4) + (log3.Par1 * 0.6);
+            Double total3 = (log3.Lab3 * 0.4) + (log3.Par3 * 0.6);
 
             return total3;
         }
         public Double calF(Loguin logF)
         {
-            Double totalF = logF.Nota1 + logF.Nota2 + logF.Nota3;
+            Double totalF = (logF.Nota1 + logF.Nota2 + logF.Nota3) /3 ;
 
             return totalF;
         }
@@ -38,7 +38,7 @@ namespace Calcular__Notas.Negocio
         {
             Double result = (logA.Nota1 + logA.Nota2 + logA.Nota3) / 3;
 
-            return result < 6.0 ;
+            return result > 6.0 ;
         }
       
 

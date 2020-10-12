@@ -206,6 +206,7 @@
             this.btnCal2.TabIndex = 17;
             this.btnCal2.Text = "Calcular";
             this.btnCal2.UseVisualStyleBackColor = true;
+            this.btnCal2.Click += new System.EventHandler(this.btnCal2_Click);
             // 
             // label9
             // 
@@ -231,6 +232,7 @@
             this.btnCal3.TabIndex = 20;
             this.btnCal3.Text = "Calcular";
             this.btnCal3.UseVisualStyleBackColor = true;
+            this.btnCal3.Click += new System.EventHandler(this.btnCal3_Click);
             // 
             // btnCalf
             // 
