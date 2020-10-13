@@ -15,7 +15,7 @@ namespace Calcular__Notas.Dominio
         private double nota1;
         private double nota2;
         private double nota3;
-        private double nota4;
+        
 
         public double Lab1 { get => lab1; set => lab1 = value; }
         public double Par1 { get => par1; set => par1 = value; }
