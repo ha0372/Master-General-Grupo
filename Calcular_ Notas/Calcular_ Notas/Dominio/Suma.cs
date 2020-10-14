@@ -10,7 +10,7 @@ namespace Calcular__Notas.Dominio
         private String pass;
         private Double dato1;
         private Double dato2;
-        private Double dato3;
+       
 
         public string User { get => user; set => user = value; }
         public string Pass { get => pass; set => pass = value; }
