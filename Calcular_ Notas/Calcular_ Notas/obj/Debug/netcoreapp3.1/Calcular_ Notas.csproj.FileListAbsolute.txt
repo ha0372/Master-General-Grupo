@@ -30,3 +30,20 @@ C:\Users\rober\Documents\GitHub\Master-General-Grupo\Calcular_ Notas\Calcular_ N
 C:\Users\rober\Documents\GitHub\Master-General-Grupo\Calcular_ Notas\Calcular_ Notas\obj\Debug\netcoreapp3.1\Calcular_ Notas.genruntimeconfig.cache
 C:\Users\rober\Documents\GitHub\Master-General-Grupo\Calcular_ Notas\Calcular_ Notas\obj\Debug\netcoreapp3.1\Calcular__Notas.frmSuma.resources
 C:\Users\rober\Documents\GitHub\Master-General-Grupo\Calcular_ Notas\Calcular_ Notas\obj\Debug\netcoreapp3.1\Calcular__Notas.frmUsuario.resources
+C:\Users\crobe\Documents\GitHub\Master-General-Grupo\Calcular_ Notas\Calcular_ Notas\bin\Debug\netcoreapp3.1\Calcular_ Notas.exe
+C:\Users\crobe\Documents\GitHub\Master-General-Grupo\Calcular_ Notas\Calcular_ Notas\bin\Debug\netcoreapp3.1\Calcular_ Notas.deps.json
+C:\Users\crobe\Documents\GitHub\Master-General-Grupo\Calcular_ Notas\Calcular_ Notas\bin\Debug\netcoreapp3.1\Calcular_ Notas.runtimeconfig.json
+C:\Users\crobe\Documents\GitHub\Master-General-Grupo\Calcular_ Notas\Calcular_ Notas\bin\Debug\netcoreapp3.1\Calcular_ Notas.runtimeconfig.dev.json
+C:\Users\crobe\Documents\GitHub\Master-General-Grupo\Calcular_ Notas\Calcular_ Notas\bin\Debug\netcoreapp3.1\Calcular_ Notas.dll
+C:\Users\crobe\Documents\GitHub\Master-General-Grupo\Calcular_ Notas\Calcular_ Notas\bin\Debug\netcoreapp3.1\Calcular_ Notas.pdb
+C:\Users\crobe\Documents\GitHub\Master-General-Grupo\Calcular_ Notas\Calcular_ Notas\obj\Debug\netcoreapp3.1\Calcular_ Notas.csprojAssemblyReference.cache
+C:\Users\crobe\Documents\GitHub\Master-General-Grupo\Calcular_ Notas\Calcular_ Notas\obj\Debug\netcoreapp3.1\Calcular__Notas.Form1.resources
+C:\Users\crobe\Documents\GitHub\Master-General-Grupo\Calcular_ Notas\Calcular_ Notas\obj\Debug\netcoreapp3.1\Calcular__Notas.frmSuma.resources
+C:\Users\crobe\Documents\GitHub\Master-General-Grupo\Calcular_ Notas\Calcular_ Notas\obj\Debug\netcoreapp3.1\Calcular__Notas.frmUsuario.resources
+C:\Users\crobe\Documents\GitHub\Master-General-Grupo\Calcular_ Notas\Calcular_ Notas\obj\Debug\netcoreapp3.1\Calcular_ Notas.csproj.GenerateResource.cache
+C:\Users\crobe\Documents\GitHub\Master-General-Grupo\Calcular_ Notas\Calcular_ Notas\obj\Debug\netcoreapp3.1\Calcular_ Notas.AssemblyInfoInputs.cache
+C:\Users\crobe\Documents\GitHub\Master-General-Grupo\Calcular_ Notas\Calcular_ Notas\obj\Debug\netcoreapp3.1\Calcular_ Notas.AssemblyInfo.cs
+C:\Users\crobe\Documents\GitHub\Master-General-Grupo\Calcular_ Notas\Calcular_ Notas\obj\Debug\netcoreapp3.1\Calcular_ Notas.csproj.CoreCompileInputs.cache
+C:\Users\crobe\Documents\GitHub\Master-General-Grupo\Calcular_ Notas\Calcular_ Notas\obj\Debug\netcoreapp3.1\Calcular_ Notas.dll
+C:\Users\crobe\Documents\GitHub\Master-General-Grupo\Calcular_ Notas\Calcular_ Notas\obj\Debug\netcoreapp3.1\Calcular_ Notas.pdb
+C:\Users\crobe\Documents\GitHub\Master-General-Grupo\Calcular_ Notas\Calcular_ Notas\obj\Debug\netcoreapp3.1\Calcular_ Notas.genruntimeconfig.cache
